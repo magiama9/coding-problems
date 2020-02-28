@@ -9,6 +9,8 @@ My solution is always just one solution. There are always multiple ways to solve
 
 * [Best Restaurant](https://github.com/magiama9/coding-problems/tree/master/enovational) -- Find the restaurant that's the best match for a group of coworkers to go out to lunch.
 
+* [Fence Builder](https://github.com/magiama9/coding-problems/tree/master/expensive-fence) -- You want to make the biggest fence you can on your paltry $1,000,000 budget.
+
 * [Fizz Buzz](https://github.com/magiama9/coding-problems/tree/master/fizz-buzz) -- The classic! Return numbers from 1 to n, replacing numbers with "Fizz", "Buzz", or "FizzBuzz" depending on certain conditions.
 
 ## Testing
