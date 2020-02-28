@@ -7,4 +7,4 @@ My solution is always just one solution. There are always multiple ways to solve
 
 ## Problems Included
 
-* Best Restaurant -- Find the restaurant that's the best match for a group of coworkers to go out to lunch.
+* [Best Restaurant](https://github.com/magiama9/coding-problems/tree/master/enovational) -- Find the restaurant that's the best match for a group of coworkers to go out to lunch.
