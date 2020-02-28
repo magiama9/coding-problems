@@ -17,3 +17,13 @@ Tests are run using Jest. A large portion of the reason I began this repo was to
 
 TDD, baby.
 
+## Adding Problems
+
+If you have problems you would like to add, feel free to open a pull request after following these steps.
+
+1. Make sure the lesson it's teaching is not already duplicated in the included problems.
+2. Name the directory the name of the problem or company where you encountered it (or both!)
+3. As much as possible, strive to include a clear and concise problem statement/readme, a well-commented solution, and unit tests.
+
+Thank you for your contribution!
+
