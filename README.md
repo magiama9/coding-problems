@@ -1,5 +1,5 @@
 # coding-problems
-This is a repository of coding problems that I've worked on or encountered in technical interviews.
+This is a repository of coding problems that I've worked on or encountered in technical interviews. This will always be a work in progress, as I add more problems and algorithms I find interesting and/or challenging.
 
 Where possible, I have tried to include a clear problem statement, a commented solution, and tests for you to run. 
 
