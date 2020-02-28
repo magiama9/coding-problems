@@ -38,8 +38,9 @@ My solution is just one way to approach the problem. Your solution might be bett
 
 ## What Now
 
-Your code passes the tests...awesome! You have achieved your MVP! Think about why your solution works and why other solutions might run into problems.
-tests might fail. Try to tailor your solution to the tests rather than the tests to your solution.
+Your code passes the tests...awesome! You have achieved your MVP! Think about why your solution works and why other solutions might run into problems. Think about how you would approach the problem if you didn't know the exact format the prices are in. E.g. if you didn't know that the first character of the string will be a $, or the input might be either a string or a number.
+
+Try to tailor your solution to the tests rather than the tests to your solution.
 
 TDD, baby.
 
