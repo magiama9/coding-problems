@@ -17,7 +17,9 @@ My solution is always just one solution. There are always multiple ways to solve
 
 ## Testing
 
-Tests are run using Jest. A large portion of the reason I began this repo was to practice writing unit tests using Jest. If your solution is built to return information in a different way than the tests are written, the tests might fail. Try to tailor your solution to the tests rather than the tests to your solution. 
+Tests are run using Jest. A large portion of the reason I began this repo was to practice writing unit tests using Jest. If your solution is built to return information in a different way than the tests are written, the tests might fail. Try to tailor your solution to the tests rather than the tests to your solution.
+
+As much as possible, I have tried to match the testing methodology to the wording of the problem statement.
 
 TDD, baby.
 
