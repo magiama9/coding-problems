@@ -11,6 +11,8 @@ My solution is always just one solution. There are always multiple ways to solve
 
 * [Fence Builder](https://github.com/magiama9/coding-problems/tree/master/expensive-fence) -- You want to make the biggest fence you can on your paltry $1,000,000 budget.
 
+* [Censor Words](https://github.com/magiama9/coding-problems/tree/master/censor-words) -- Your job is to censor a string. Replace all words over 4 characters in length with * matching with word length.
+
 * [Fizz Buzz](https://github.com/magiama9/coding-problems/tree/master/fizz-buzz) -- The classic! Return numbers from 1 to n, replacing numbers with "Fizz", "Buzz", or "FizzBuzz" depending on certain conditions.
 
 ## Testing

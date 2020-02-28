@@ -7,13 +7,13 @@ Your task is to create a fence worth $1 million. You are given the price of the 
 Create a function which constructs this expensive fence, using the letter "H" to build.
 
 ``` js
-constructFence("$50,000") ➞ "HHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+solve("$50,000") ➞ "HHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 // 20 fence posts were set up ($1,000,000 / $50,000 = 20)
-constructFence("$50,000") ➞ "HHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+solve("$50,000") ➞ "HHHHHHHHHHHHHHHHHHHHHHHHHHHH"
 
-constructFence("$100,001") ➞ "HHHHHHHHH" 
+solve("$100,001") ➞ "HHHHHHHHH" 
 
-constructFence("$1,000,000") ➞ "H"
+solve("$1,000,000") ➞ "H"
 ```
 
 Notes
@@ -43,13 +43,3 @@ Your code passes the tests...awesome! You have achieved your MVP! Think about wh
 Try to tailor your solution to the tests rather than the tests to your solution.
 
 TDD, baby.
-
-## Adding Problems
-
-If you have problems you would like to add, feel free to open a pull request after following these steps.
-
-1. Make sure the lesson it's teaching is not already duplicated in the included problems.
-2. Name the directory the name of the problem or company where you encountered it (or both!)
-3. As much as possible, strive to include a clear and concise problem statement/readme, a well-commented solution, and unit tests.
-
-Thank you for your contribution!
