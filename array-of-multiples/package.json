@@ -1,0 +1,14 @@
+{
+  "name": "array-of-multiples",
+  "version": "1.0.0",
+  "description": "return an array of multiples",
+  "main": "solve.js",
+  "author": "Sam Randels",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
