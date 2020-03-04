@@ -1,7 +1,7 @@
 {
-  "name": "enovational",
+  "name": "expensive-fence",
   "version": "1.0.0",
-  "description": "enovational interview problem",
+  "description": "construct a really expensive fence!",
   "main": "solve.js",
   "author": "Sam Randels",
   "license": "MIT",

@@ -1,7 +1,7 @@
 {
-  "name": "enovational",
+  "name": "censor-words",
   "version": "1.0.0",
-  "description": "enovational interview problem",
+  "description": "censor words over four letters long",
   "main": "solve.js",
   "author": "Sam Randels",
   "license": "MIT",

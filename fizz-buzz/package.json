@@ -1,7 +1,7 @@
 {
-  "name": "enovational",
+  "name": "fizz-buzz",
   "version": "1.0.0",
-  "description": "enovational interview problem",
+  "description": "You know it and love it. Maybe.",
   "main": "solve.js",
   "author": "Sam Randels",
   "license": "MIT",
