@@ -1,4 +1,5 @@
 # coding-problems
+
 This is a repository of coding problems that I've worked on or encountered in technical interviews. This will always be a work in progress, as I add more problems and algorithms I find interesting and/or challenging.
 
 Where possible, I have tried to include a clear problem statement, a commented solution, and tests for you to run. 
@@ -12,6 +13,8 @@ My solution is always just one solution. There are always multiple ways to solve
 * [Fence Builder](https://github.com/magiama9/coding-problems/tree/master/expensive-fence) -- You want to make the biggest fence you can on your paltry $1,000,000 budget.
 
 * [Censor Words](https://github.com/magiama9/coding-problems/tree/master/censor-words) -- Your job is to censor a string. Replace all words over 4 characters in length with * matching with word length.
+
+* [Array of Multiples](https://github.com/magiama9/coding-problems/tree/master/array-of-multiples) -- Return an array containing the specified number of multiples of the original number.
 
 * [Fizz Buzz](https://github.com/magiama9/coding-problems/tree/master/fizz-buzz) -- The classic! Return numbers from 1 to n, replacing numbers with "Fizz", "Buzz", or "FizzBuzz" depending on certain conditions.
 
@@ -32,4 +35,3 @@ If you have problems you would like to add, feel free to open a pull request aft
 3. As much as possible, strive to include a clear and concise problem statement/readme, a well-commented solution, and unit tests.
 
 Thank you for your contribution!
-
